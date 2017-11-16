@@ -1,0 +1,202 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/CFYC/SourceCode/prestashop",
+		"/D/CFYC/SourceCode/prestashop/themes",
+		"/D/CFYC/SourceCode/prestashop/themes/theme1133"
+	],
+	"file_history":
+	[
+		"/D/CFYC/SourceCode/prestashop/themes/index.php",
+		"/D/CFYC/SourceCode/sampledatainstall/config.xml",
+		"/D/CFYC/SourceCode/prestashop/themes/theme1133/footer.tpl",
+		"/D/CFYC/SourceCode/template_52940_13gA324ZF0gg23JHwG2N/theme/manual_install/theme1133/modules/sampledatainstall/sampledatainstall.php",
+		"/D/CFYC/SourceCode/Eri/themes/eriweb/pages/hosomi-genki/hosomi-genki.htm",
+		"/D/CFYC/SourceCode/Eri/themes/eriweb/pages/kirakira/kirakira.htm",
+		"/D/CFYC/SourceCode/Eri/themes/eriweb/pages/contact-us-vn.htm",
+		"/D/CFYC/SourceCode/Eri/config/database.php",
+		"/D/CFYC/SourceCode/Eri/themes/eriweb/pages/kirakira.htm",
+		"/D/CFYC/SourceCode/Eri/themes/eriweb/pages/thay-da-cong-nghe-sake-seishi-nhat-ban.htm",
+		"/D/CFYC/SourceCode/jira/jira/atlassian-jira/WEB-INF/classes/jira-application.properties",
+		"/D/CFYC/SourceCode/jira/atlassian-jira/WEB-INF/classes/jira-application.properties",
+		"/D/CFYC/SourceCode/Eri/themes/eriweb/pages/sake-seishi.htm",
+		"/D/CFYC/Vagrant/.homestead/Homestead.yaml",
+		"/D/CFYC/Vagrant/Vagrantfile",
+		"/D/CFYC/SourceCode/Eri/themes/eriweb/layouts/default.htm",
+		"/D/CFYC/SourceCode/Calikids/config/database.php",
+		"/D/CFYC/SourceCode/YogaPlus/config/database.php",
+		"/D/MAMP/conf/php5.6.30/php.ini",
+		"/D/CFYC/SourceCode/Calikids/plugins/cmg/content/components/programlisthome/default.htm",
+		"/D/CFYC/SourceCode/UFC/themes/ufcvn/layouts/default.htm",
+		"/D/CFYC/SourceCode/Eri/themes/eriweb/theme.yaml",
+		"/D/CFYC/SourceCode/Eri/config/cms.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"./img/cms/footer-logo.png",
+			"footer",
+			"foother",
+			"F",
+			"footer",
+			"x",
+			"x-prize",
+			"php_fileinfo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "prestashop.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 441.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
